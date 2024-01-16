@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353140944413",
+    "project_id": "flutterfire-g211200019-rafly",
+    "storage_bucket": "flutterfire-g211200019-rafly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353140944413:android:96e92d4af7967dfa5620f4",
+        "android_client_info": {
+          "package_name": "com.example.flutterlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37gaaxFLL4T4xWJAqhgIDHD5ddpQcVdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
